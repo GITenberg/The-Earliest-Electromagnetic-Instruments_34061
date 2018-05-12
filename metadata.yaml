@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36719'
     url: http://www.gutenberg.org/2009/agents/36719
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34061#The-Earliest-Electromagnetic-Instruments
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2010-10-12'
 gutenberg_type: Text
